@@ -1,7 +1,9 @@
+@import '../../colours.scss';
+
 .header-bar {
     width: 100%;
     margin-bottom: 20px;
-    background: #DD2E44;
+    background: $theme-colour;
   }
   
   .logo {
