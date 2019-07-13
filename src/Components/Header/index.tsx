@@ -1,13 +1,13 @@
 import React, { Component } from "react";
 import logo from '../../img/lorisLogo.png';
-import './index.scss';
+import styles from './index.module.scss';
 
 export default class Header extends Component {
     render() {
       return (
-        <header className="header-bar">
-            <img src={logo} height="50" className="logo" />
-            <span className="header-text">
+        <header className={styles.headerBar}>
+            <img src={logo} height="50" className={styles.logo} />
+            <span className={styles.headerText}>
                 Sharp Loris Games
             </span>
         </header>
