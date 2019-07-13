@@ -2,7 +2,8 @@ import React from 'react';
 import './App.scss';
 import styles from './App.module.scss';
 import Header from './Components/Header';
-import PeoplePage from './Components/PeoplePage'
+import PeoplePage from './Components/PeoplePage';
+import Footer from './Components/Footer';
 
 const App: React.FC = () => {
   return (
@@ -13,6 +14,7 @@ const App: React.FC = () => {
         <br />
         <PeoplePage />
       </div>
+      <Footer />
     </div>
   );
 }
