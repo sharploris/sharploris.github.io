@@ -1,19 +1,19 @@
 @import '../../colours.scss';
 
 .headerBar {
-    width: 100%;
-    margin-bottom: 20px;
-    background: $theme-colour;
-  }
+  width: 100%;
+  margin-bottom: 20px;
+  background: $theme-colour;
+}
   
-  .logo {
-    margin: auto;
-    padding: 10px 10px 10px 15px;
-    vertical-align: middle;
-  }
+.logo {
+  margin: auto;
+  padding: 10px 10px 10px 15px;
+  vertical-align: middle;
+}
   
-  .headerText {
-    font-size: 30px;
-    color: $theme-text-colour;
-    vertical-align: middle;
-  }
+.headerText {
+  font-size: 30px;
+  color: $theme-text-colour;
+  vertical-align: middle;
+}
