@@ -1,0 +1,17 @@
+.header-bar {
+    width: 100%;
+    margin-bottom: 20px;
+    background: #DD2E44;
+  }
+  
+  .logo {
+    margin: auto;
+    padding: 10px 10px 10px 15px;
+    vertical-align: middle;
+  }
+  
+  .header-text {
+    font-size: 30px;
+    color: white;
+    vertical-align: middle;
+  }
