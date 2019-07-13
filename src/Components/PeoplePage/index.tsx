@@ -40,6 +40,16 @@ export default class PeoplePage extends Component {
           <h4>Developer of <a href="https://jessmolloyga.wixsite.com/jessmolloy" target="_blank" rel="noopener noreferrer">The Green Monster</a> mod for Fallout 4</h4>
           <h4>Games Development (Design) Masters Student at Kingston University</h4>
         </div>
+        <br />
+        <br />
+        <div className={styles.profileWrapper}>
+          <Profile
+            personName="Thomas Bassett"
+            githubUrl="https://github.com/snoogle13"
+            linkedinUrl="https://www.linkedin.com/in/thomas-bassett-b08304112/"
+            contactEmail="thomasbassett94@gmail.com"
+          />
+        </div>
       </div>
     );
   }
