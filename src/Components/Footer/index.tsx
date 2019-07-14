@@ -6,7 +6,7 @@ export default class Footer extends Component {
     return (
       <footer className={styles.footerBar}>
         <div className={styles.footerText}>
-          © Copyright - Sharp Loris Games 2019
+          &copy; Copyright - Sharp Loris Games 2019
         </div>
       </footer>
     );
