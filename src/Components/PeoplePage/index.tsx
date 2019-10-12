@@ -49,6 +49,7 @@ export default class PeoplePage extends Component {
             linkedinUrl="https://www.linkedin.com/in/thomas-bassett-b08304112/"
             contactEmail="thomasbassett94@gmail.com"
           />
+          <h4>Programmer on <a href="https://twitter.com/Oiseaudev" target="_blank" rel="noopener noreferrer">Oiseau</a></h4>
           <h4>Studied Computer Science (Games Programming) at Kingston University</h4>
         </div>
       </div>
