@@ -10,7 +10,7 @@ const App: React.FC = () => {
     <div className={styles.appWrapper}>
       <Header />
       <div className={`${styles.appBody} centered`}>
-        <h2>Met us at Develop:Brighton? Reach out!</h2>
+        <h2>About Us</h2>
         <br />
         <PeoplePage />
       </div>
